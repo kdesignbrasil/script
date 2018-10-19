@@ -1,0 +1,2 @@
+# script
+Código de demonstração.
